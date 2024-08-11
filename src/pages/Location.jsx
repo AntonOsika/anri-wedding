@@ -9,7 +9,7 @@ const Location = () => {
       <div className="grid gap-6 mt-8">
         <Card>
           <CardHeader>
-            <CardTitle>Laser Tag Venue</CardTitle>
+            <CardTitle>Laser Tag</CardTitle>
           </CardHeader>
           <CardContent>
             <p>Budapest Laser Tag Arena</p>
@@ -19,7 +19,7 @@ const Location = () => {
         </Card>
         <Card>
           <CardHeader>
-            <CardTitle>Dinner Venue</CardTitle>
+            <CardTitle>Dinner</CardTitle>
           </CardHeader>
           <CardContent>
             <p>Kőleves Kert</p>

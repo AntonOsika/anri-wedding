@@ -63,7 +63,7 @@ const Index = () => {
             <Card className="bg-white text-gray-800">
               <CardHeader>
                 <CardTitle className="flex items-center text-gray-800">
-                  <Calendar className="mr-2" /> Laser Tag Adventure
+                  <Calendar className="mr-2" /> Laser Tag
                 </CardTitle>
                 <CardDescription className="text-gray-600">
                   <Clock className="inline-block mr-1" /> 13:30
@@ -82,7 +82,7 @@ const Index = () => {
             <Card>
               <CardHeader>
                 <CardTitle className="flex items-center">
-                  <Users className="mr-2" /> Wedding Dinner
+                  <Users className="mr-2" /> Dinner
                 </CardTitle>
                 <CardDescription>
                   <Clock className="inline-block mr-1" /> 17:00

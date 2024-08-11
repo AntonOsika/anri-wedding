@@ -9,7 +9,7 @@ const Schedule = () => {
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center">
-              <Calendar className="mr-2" /> Laser Tag Adventure
+              <Calendar className="mr-2" /> Laser Tag
             </CardTitle>
             <CardDescription>
               <Clock className="inline-block mr-1" /> 13:30
@@ -23,7 +23,7 @@ const Schedule = () => {
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center">
-              <Calendar className="mr-2" /> Wedding Dinner
+              <Calendar className="mr-2" /> Dinner
             </CardTitle>
             <CardDescription>
               <Clock className="inline-block mr-1" /> 17:00
