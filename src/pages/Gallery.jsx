@@ -9,6 +9,12 @@ const Gallery = () => {
     { src: "/placeholder.svg", alt: "Laser tag action shot" },
     { src: "/placeholder.svg", alt: "Romantic dinner at a ruin bar" },
     { src: "/placeholder.svg", alt: "Engagement photo at the Széchenyi Thermal Bath" },
+    { src: "/placeholder.svg", alt: "Anton and Dori on a Danube river cruise" },
+    { src: "/placeholder.svg", alt: "Couple exploring the Buda Castle" },
+    { src: "/placeholder.svg", alt: "Picnic in City Park" },
+    { src: "/placeholder.svg", alt: "Trying Hungarian wine at a local vineyard" },
+    { src: "/placeholder.svg", alt: "Dancing at a Budapest nightclub" },
+    { src: "/placeholder.svg", alt: "Cooking Hungarian goulash together" },
   ]);
 
   return (
