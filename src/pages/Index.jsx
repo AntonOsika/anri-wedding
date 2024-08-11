@@ -69,7 +69,7 @@ const Index = () => {
                 <p className="mt-2">1138 Budapest, Váci út 178 Duna Pláza</p>
               </CardContent>
               <CardFooter>
-                <Button variant="outline" onClick={() => window.open('https://goo.gl/maps/QZjZX9Z7Y8Xj6ZLGA', '_blank')}>
+                <Button variant="outline" onClick={() => window.open('https://www.google.com/maps/search/?api=1&query=Laser+Tag+Budapest+Duna+Plaza', '_blank')}>
                   View on Google Maps <ExternalLink className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
@@ -88,7 +88,7 @@ const Index = () => {
                 <p className="mt-2">Budapest, Király u. 26, 1061 Hungary</p>
               </CardContent>
               <CardFooter>
-                <Button variant="outline" onClick={() => window.open('https://goo.gl/maps/8Z8Z8Z8Z8Z8Z8Z8Z8', '_blank')}>
+                <Button variant="outline" onClick={() => window.open('https://www.google.com/maps/search/?api=1&query=Budapest+Kiraly+utca+26', '_blank')}>
                   View on Google Maps <ExternalLink className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>
