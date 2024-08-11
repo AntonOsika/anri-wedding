@@ -154,7 +154,7 @@ const Index = () => {
 
       <footer className="bg-white bg-opacity-80 py-4 mt-12">
         <div className="container mx-auto text-center">
-          <p className="text-gray-800">© 2024 Anton & Dori's Urban Love Adventure</p>
+          <p className="text-gray-800">© 2024 Anton & Dori's Wedding Celebration</p>
         </div>
       </footer>
     </div>
