@@ -36,11 +36,16 @@ const Index = () => {
       <header className="py-8">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold mb-2">Anton & Dori's Informal Wedding Dinner Celebration</h1>
-          <p className="text-xl">Experience the best Anri and Budapest has to offer with fun and food.</p>
+          <p className="text-xl mb-6">Experience the best Anri and Budapest has to offer with fun and food.</p>
+          <img 
+            src="/placeholder.svg" 
+            alt="Anton & Dori x Victor Ganguly-214" 
+            className="mx-auto object-cover w-full max-w-2xl h-[400px] rounded-lg shadow-lg"
+          />
         </div>
       </header>
 
-      <main className="container mx-auto mt-8 px-4">
+      <main className="container mx-auto mt-12 px-4">
         <section className="mb-12">
           <Card className="bg-white text-gray-800">
             <CardHeader>
