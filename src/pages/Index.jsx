@@ -40,7 +40,7 @@ const Index = () => {
           <img 
             src="/Anton & Dori x Victor Ganguly-214.jpg" 
             alt="Anton & Dori" 
-            className="mx-auto object-cover w-full max-w-2xl h-[400px] rounded-lg shadow-lg"
+            className="mx-auto object-cover w-full h-[400px] rounded-lg shadow-lg"
           />
         </div>
       </header>
