@@ -2,18 +2,17 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const Gallery = () => {
   const images = [
-    { src: "/almost kissin.jpg", alt: "Anton and Dori almost kissing" },
+    { src: "/almost_kissing.jpg", alt: "Anton and Dori almost kissing" },
     { src: "/bathrobes.jpg", alt: "Anton and Dori in bathrobes" },
-    { src: "/before first look.jpg", alt: "Anton and Dori before their first look" },
+    { src: "/before_first_look.jpg", alt: "Anton and Dori before their first look" },
     { src: "/bicycle.jpg", alt: "Anton and Dori on a bicycle" },
     { src: "/biking.jpg", alt: "Anton and Dori biking together" },
-    { src: "/black and white happy.jpg", alt: "Anton and Dori happy in black and white" },
-    { src: "/black and white serious (dori).jpg", alt: "Dori looking serious in black and white" },
+    { src: "/black_n_white_happy.jpg", alt: "Anton and Dori happy in black and white" },
+    { src: "/black_n_white_serious (dori).jpg", alt: "Dori looking serious in black and white" },
     { src: "/group.jpg", alt: "Anton and Dori with a group" },
-    { src: "/looking at each other.jpg", alt: "Anton and Dori looking at each other" },
-    { src: "/troubled on bicycles.jpg", alt: "Anton and Dori looking troubled on bicycles" },
-    { src: "/walking to water.jpg", alt: "Anton and Dori walking towards water" },
-    { src: "/walking together looking back.jpg", alt: "Anton and Dori walking together and looking back" },
+    { src: "/troubled_on_bicycles.jpg", alt: "Anton and Dori looking troubled on bicycles" },
+    { src: "/walking_to_water.jpg", alt: "Anton and Dori walking towards water" },
+    { src: "/walking_together_looking_back.jpg", alt: "Anton and Dori walking together and looking back" },
   ];
 
   return (
