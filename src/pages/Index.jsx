@@ -38,8 +38,8 @@ const Index = () => {
           <h1 className="text-4xl font-bold mb-2">Anton & Dori's Informal Wedding Dinner Celebration</h1>
           <p className="text-xl mb-6">Experience the best Anri and Budapest has to offer with fun and food.</p>
           <img 
-            src="/Anton & Dori x Victor Ganguly-214.jpg" 
-            alt="Anton & Dori" 
+            src="/walking together looking back.jpg" 
+            alt="Anton & Dori walking together and looking back" 
             className="mx-auto object-cover w-full h-[400px] rounded-lg shadow-lg"
           />
         </div>
