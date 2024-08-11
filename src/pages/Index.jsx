@@ -32,7 +32,7 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-400 via-red-500 to-emerald-600 text-white">
+    <div className="min-h-screen bg-gradient-to-r from-pink-500 to-purple-500 text-white">
       <header className="py-8">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold mb-2">Anton & Dori's Informal Wedding Dinner Celebration</h1>
