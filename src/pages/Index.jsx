@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import { Heart, MapPin, Calendar, Clock, Users, ExternalLink } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
-import { AspectRatio } from "@/components/ui/aspect-ratio";
 
 const Index = () => {
   const [timeLeft, setTimeLeft] = useState({
@@ -48,15 +47,6 @@ const Index = () => {
               <CardTitle className="text-2xl font-bold">Our Story</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="mb-4">
-                <AspectRatio ratio={16 / 9}>
-                  <img
-                    src="/placeholder.svg"
-                    alt="Anton and Dori"
-                    className="rounded-md object-cover"
-                  />
-                </AspectRatio>
-              </div>
               <p>Anton and Dori's love story began over burgers and chia pudding at WeWork in Stockholm. Now they are married and are excited to see friends and family to celebrate a future lifetime of fun and silliness.</p>
             </CardContent>
           </Card>
@@ -109,18 +99,9 @@ const Index = () => {
         <section className="mb-12">
           <Card>
             <CardHeader>
-              <CardTitle className="text-2xl font-bold">Days Left Until Our Budapest Adventure!</CardTitle>
+              <CardTitle className="text-2xl font-bold">Countdown to Our Big Day</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="mb-4">
-                <AspectRatio ratio={16 / 9}>
-                  <img
-                    src="/placeholder.svg"
-                    alt="Budapest cityscape"
-                    className="rounded-md object-cover"
-                  />
-                </AspectRatio>
-              </div>
               <div className="grid grid-cols-4 gap-4 text-center">
                 <div>
                   <span className="text-3xl font-bold">{timeLeft.days}</span>
