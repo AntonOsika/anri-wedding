@@ -131,10 +131,16 @@ const Index = () => {
             </CardHeader>
             <CardContent>
               <p className="mb-4">We can't wait to celebrate with you! Please let us know if you can make it.</p>
-              <div className="flex space-x-4">
-                <Button>RSVP</Button>
-                <Button variant="outline">Can't make it</Button>
-                <Button variant="outline">Not sure if I can make it...</Button>
+              <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+                <Button className="bg-black text-white hover:bg-gray-800" onClick={() => window.open('https://forms.gle/AsSW9CSFLa3NBQNg6', '_blank')}>
+                  RSVP
+                </Button>
+                <Button className="bg-black text-white hover:bg-gray-800" onClick={() => window.open('https://forms.gle/AsSW9CSFLa3NBQNg6', '_blank')}>
+                  Can't make it
+                </Button>
+                <Button className="bg-black text-white hover:bg-gray-800" onClick={() => window.open('https://forms.gle/AsSW9CSFLa3NBQNg6', '_blank')}>
+                  Not sure if I can make it...
+                </Button>
               </div>
             </CardContent>
           </Card>
