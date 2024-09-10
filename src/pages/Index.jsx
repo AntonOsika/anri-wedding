@@ -71,10 +71,10 @@ const Index = () => {
               </CardHeader>
               <CardContent>
                 <p>Get ready for an exciting laser tag battle to kick off our celebration!</p>
-                <p className="mt-2">1138 Budapest, Váci út 178 Duna Pláza</p>
+                <p className="mt-2">Budapest, Hegedűs Gyula u. 16, 1136 Ungern</p>
               </CardContent>
               <CardFooter>
-                <Button variant="outline" onClick={() => window.open('https://www.google.com/maps/search/?api=1&query=Laser+Tag+Budapest+Duna+Plaza', '_blank')}>
+                <Button variant="outline" onClick={() => window.open('https://maps.app.goo.gl/EFKR1y5UDjp37FyC8', '_blank')}>
                   View on Google Maps <ExternalLink className="ml-2 h-4 w-4" />
                 </Button>
               </CardFooter>

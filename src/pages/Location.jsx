@@ -12,9 +12,9 @@ const Location = () => {
             <CardTitle>Laser Tag</CardTitle>
           </CardHeader>
           <CardContent>
-            <p>Budapest Laser Tag Arena</p>
-            <p>1052 Budapest, Váci utca 10</p>
-            <p className="mt-2">How to get there: Take the M1 metro line to Deák Ferenc tér, then walk 5 minutes south on Váci utca.</p>
+            <p>LaserForce Budapest</p>
+            <p>Budapest, Hegedűs Gyula u. 16, 1136 Ungern</p>
+            <p className="mt-2">How to get there: Take the M3 metro line to Nyugati pályaudvar, then walk about 10 minutes north on Szent István körút and turn right onto Hegedűs Gyula utca.</p>
           </CardContent>
         </Card>
         <Card>

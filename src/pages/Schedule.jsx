@@ -17,7 +17,7 @@ const Schedule = () => {
           </CardHeader>
           <CardContent>
             <p>Get ready for an exciting laser tag battle to kick off our celebration! Bring your A-game and prepare for an unforgettable urban adventure.</p>
-            <p className="mt-2"><strong>Location:</strong> Budapest Laser Tag Arena, 1052 Budapest, Váci utca 10</p>
+            <p className="mt-2"><strong>Location:</strong> Budapest, Hegedűs Gyula u. 16, 1136 Ungern</p>
           </CardContent>
         </Card>
         <Card>
