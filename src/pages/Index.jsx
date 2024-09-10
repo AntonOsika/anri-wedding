@@ -36,7 +36,7 @@ const Index = () => {
       <header className="py-8">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold mb-2">Anton & Dori's Informal Wedding Dinner Celebration</h1>
-          <p className="text-xl mb-6">Experience the best Anri and Budapest has to offer with fun and food.</p>
+          <p className="text-xl mb-6">Experience the best Anri and Budapest has to offer.</p>
           <img 
             src="/walking_together_looking_back.jpg" 
             alt="Anton & Dori walking together and looking back" 
@@ -104,7 +104,7 @@ const Index = () => {
         <section className="mb-12">
           <Card>
             <CardHeader>
-              <CardTitle className="text-2xl font-bold">Countdown to Our Big Day</CardTitle>
+              <CardTitle className="text-2xl font-bold">Countdown to the big thing</CardTitle>
             </CardHeader>
             <CardContent>
               <div className="grid grid-cols-4 gap-4 text-center">
